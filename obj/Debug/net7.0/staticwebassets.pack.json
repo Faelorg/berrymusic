@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\efrem\\OneDrive\\Рабочий стол\\BerryMusic\\BerryMusicV1\\wwwroot\\music\\46996f80-58ca-4f08-9c4a-51feefe3e8c8.mp3",
+      "PackagePath": "staticwebassets\\music\\46996f80-58ca-4f08-9c4a-51feefe3e8c8.mp3"
+    },
+    {
+      "Id": "C:\\Users\\efrem\\OneDrive\\Рабочий стол\\BerryMusic\\BerryMusicV1\\wwwroot\\music\\626d53bc-0321-43f4-a055-191c7b3a61c2.mp3",
+      "PackagePath": "staticwebassets\\music\\626d53bc-0321-43f4-a055-191c7b3a61c2.mp3"
+    },
+    {
+      "Id": "C:\\Users\\efrem\\OneDrive\\Рабочий стол\\BerryMusic\\BerryMusicV1\\wwwroot\\music\\868d381d-1a02-40a8-bc99-808ac14f8f1c.mp3",
+      "PackagePath": "staticwebassets\\music\\868d381d-1a02-40a8-bc99-808ac14f8f1c.mp3"
+    },
+    {
+      "Id": "C:\\Users\\efrem\\OneDrive\\Рабочий стол\\BerryMusic\\BerryMusicV1\\wwwroot\\music\\f0e1efe6-8470-46c1-835c-a0a0f1da9c4f.mp3",
+      "PackagePath": "staticwebassets\\music\\f0e1efe6-8470-46c1-835c-a0a0f1da9c4f.mp3"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.BerryMusicV1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.BerryMusicV1.props",
+      "PackagePath": "build\\BerryMusicV1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.BerryMusicV1.props",
+      "PackagePath": "buildMultiTargeting\\BerryMusicV1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.BerryMusicV1.props",
+      "PackagePath": "buildTransitive\\BerryMusicV1.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

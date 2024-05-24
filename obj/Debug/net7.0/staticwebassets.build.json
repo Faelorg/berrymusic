@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "GWI96t/fOCz5hCWS3LMlNXg3e1e/Kc5rRej/F6nHRV4=",
+  "Source": "BerryMusicV1",
+  "BasePath": "_content/BerryMusicV1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BerryMusicV1\\wwwroot",
+      "Source": "BerryMusicV1",
+      "ContentRoot": "C:\\Users\\efrem\\OneDrive\\Рабочий стол\\BerryMusic\\BerryMusicV1\\wwwroot\\",
+      "BasePath": "_content/BerryMusicV1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\efrem\\OneDrive\\Рабочий стол\\BerryMusic\\BerryMusicV1\\wwwroot\\music\\46996f80-58ca-4f08-9c4a-51feefe3e8c8.mp3",
+      "SourceId": "BerryMusicV1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\efrem\\OneDrive\\Рабочий стол\\BerryMusic\\BerryMusicV1\\wwwroot\\",
+      "BasePath": "_content/BerryMusicV1",
+      "RelativePath": "music/46996f80-58ca-4f08-9c4a-51feefe3e8c8.mp3",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\music\\46996f80-58ca-4f08-9c4a-51feefe3e8c8.mp3"
+    },
+    {
+      "Identity": "C:\\Users\\efrem\\OneDrive\\Рабочий стол\\BerryMusic\\BerryMusicV1\\wwwroot\\music\\626d53bc-0321-43f4-a055-191c7b3a61c2.mp3",
+      "SourceId": "BerryMusicV1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\efrem\\OneDrive\\Рабочий стол\\BerryMusic\\BerryMusicV1\\wwwroot\\",
+      "BasePath": "_content/BerryMusicV1",
+      "RelativePath": "music/626d53bc-0321-43f4-a055-191c7b3a61c2.mp3",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\music\\626d53bc-0321-43f4-a055-191c7b3a61c2.mp3"
+    },
+    {
+      "Identity": "C:\\Users\\efrem\\OneDrive\\Рабочий стол\\BerryMusic\\BerryMusicV1\\wwwroot\\music\\868d381d-1a02-40a8-bc99-808ac14f8f1c.mp3",
+      "SourceId": "BerryMusicV1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\efrem\\OneDrive\\Рабочий стол\\BerryMusic\\BerryMusicV1\\wwwroot\\",
+      "BasePath": "_content/BerryMusicV1",
+      "RelativePath": "music/868d381d-1a02-40a8-bc99-808ac14f8f1c.mp3",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\music\\868d381d-1a02-40a8-bc99-808ac14f8f1c.mp3"
+    },
+    {
+      "Identity": "C:\\Users\\efrem\\OneDrive\\Рабочий стол\\BerryMusic\\BerryMusicV1\\wwwroot\\music\\f0e1efe6-8470-46c1-835c-a0a0f1da9c4f.mp3",
+      "SourceId": "BerryMusicV1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\efrem\\OneDrive\\Рабочий стол\\BerryMusic\\BerryMusicV1\\wwwroot\\",
+      "BasePath": "_content/BerryMusicV1",
+      "RelativePath": "music/f0e1efe6-8470-46c1-835c-a0a0f1da9c4f.mp3",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\music\\f0e1efe6-8470-46c1-835c-a0a0f1da9c4f.mp3"
+    }
+  ]
+}
